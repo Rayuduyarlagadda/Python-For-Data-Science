@@ -1,6 +1,6 @@
 Installing Python 2.7
 
- 
+ testing the installation
 
 Windows:
 
